@@ -30,12 +30,6 @@ This project is a skeleton project for using [HAPI FHIR](https://hapifhir.io) to
 
 * [ ] Modify 'SampleClient' so that instead of searching for patients with last name 'SMITH',
       it reads in the contents of this file and for each last name queries for patients with that last name
-      
-### Results:
-
-* [ ] Done with Task 1
-
-* [ ] Created My own Rest API for reading from text file nut not able to call it through the samnpleclient.
 
 * [ ] Print the average response time for these 20 searches by implementing an IClientInterceptor that uses
       the requestStopWatch to determine the response time of each request.
@@ -49,3 +43,10 @@ This project is a skeleton project for using [HAPI FHIR](https://hapifhir.io) to
 * [ ] Please include unit tests for your work
 
 * [ ] Commit your work
+
+
+### Results:
+
+* [ ] Done with Task 1
+
+* [ ] Created My own Rest API for reading from text file nut not able to call it through the samnpleclient.
